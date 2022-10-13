@@ -1,0 +1,7 @@
+1. pyttsx3 (text -> speech) : pip install pyttsx3
+	pyttsx is a cross-platform text to speech library which is platform independent. The major advantage of using this library for text-to-speech conversion is that it works offline. To install this module type the below command in the terminal
+
+2. SpeechRecognition (speech -> text) : pip install SpeechRecognition
+	It allow us to convert audio into text for further processing. To install this module type the below command in the terminal.
+
+

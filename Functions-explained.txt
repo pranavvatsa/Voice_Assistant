@@ -1,0 +1,4 @@
+1. To open applictaions : os.system() command.
+2. engine.setProperty('voice', voices[0].id): # setter method .[0]=male voice and # [1]=female voice in set Property.
+3. r.pause_threshold : seconds of non-speaking before the pharse is considered complete
+4. 
